@@ -45,9 +45,6 @@
   <a href="https://www.linkedin.com/in/tushar-chaurasia-ab398a202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:akchaurasia4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
 </p>
 
 ---
