@@ -29,7 +29,7 @@
 ---
 
 ### Relevant Coursework & Interests
-I have been building a strong foundation in **VLSI and Embedded Systems** through coursework in **Digital Logic Design**, **Digital VLSI Design**, **Embedded Computing Systems**, **Reconfigurable System Design**, and **ASIC Lab**. These subjects have equipped me with **hands-on experience in Verilog, FPGA implementation, and RTL design workflows**. Alongside this, my interest in **Machine Intelligence** has led me to explore **Machine Learning and Deep Learning** concepts, providing a broader perspective on how intelligent systems can complement hardware-level innovations.
+I have been building a strong foundation in **VLSI and Embedded Systems** through coursework in **Digital Logic Design**, **Digital VLSI Design**, **Embedded Computing Systems**, **Reconfigurable System Design**, and **ASIC**. These subjects have equipped me with **hands-on experience in Verilog, FPGA implementation, and RTL design workflows**. Alongside this, my interest in **Machine Intelligence** has led me to explore **Machine Learning and Deep Learning** concepts, providing a broader perspective on how intelligent systems can complement hardware-level innovations.
 
 ---
 
