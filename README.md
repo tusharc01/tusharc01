@@ -33,7 +33,14 @@ I have been building a strong foundation in **VLSI and Embedded Systems** throug
 
 ---
 
-### Connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tushar-chaurasia-ab398a202)
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tushar-chaurasia-ab398a202" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 ---
 
