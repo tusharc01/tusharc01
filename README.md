@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Tushar Chaurasia</h1>
+<h1 align="center">Hi, I'm Tushar Chaurasia</h1>
 <h3 align="center">🔬 VLSI Enthusiast | RTL Design • FPGA Prototyping • ASIC • Physical Design</h3>
 
 <p align="center">
-  🚀 Exploring the semiconductor world through hands-on digital design, FPGA implementation, and ASIC flows.
+  Exploring the semiconductor world through hands-on digital design, FPGA implementation, and ASIC flows.
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 💡 Passionate about **VLSI Design**, especially in **RTL Design**, **FPGA**, and **ASIC flow**.
-- 📚 Completed coursework in Digital Logic, Digital VLSI Design, Reconfigurable Systems, and ASIC.
-- 🛠️ Currently working with **Vivado**, **Cadence/Synopsys EDA tools**, and real-time FPGA boards like **Basys3/Boolean**.
-- 📈 Learning and growing every day to become part of semiconductor revolution.
+- Passionate about **VLSI Design**, especially in **RTL Design**, **FPGA**, and **ASIC flow**.
+- Completed coursework in Digital Logic, Digital VLSI Design, Reconfigurable Systems, and ASIC.
+- Currently working with **Vivado**, **Cadence/Synopsys EDA tools**, and real-time FPGA boards like **Basys3/Boolean**.
+- Learning and growing every day to become part of semiconductor revolution.
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 | Category         | Tools/Technologies |
 |------------------|--------------------|
@@ -28,14 +28,8 @@
 
 ---
 
-### 📘 Relevant Coursework
-
-- ✅ Digital Logic Design  
-- ✅ Digital VLSI Design  
-- ✅ Embedded Computing Systems  
-- ✅ Reconfigurable System Design Lab  
-- ✅ Application Specific Integrated Circuit (ASIC) Lab  
-- ✅ Machine Intelligence  
+### Relevant Coursework & Interests
+I have been building a strong foundation in **VLSI and Embedded Systems** through coursework in **Digital Logic Design**, **Digital VLSI Design**, **Embedded Computing Systems**, **Reconfigurable System Design**, and **ASIC Lab**. These subjects have equipped me with **hands-on experience in Verilog, FPGA implementation, and RTL design workflows**. Alongside this, my interest in **Machine Intelligence** has led me to explore **Machine Learning and Deep Learning** concepts, providing a broader perspective on how intelligent systems can complement hardware-level innovations.
 
 ---
 
