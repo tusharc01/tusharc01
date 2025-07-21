@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tushar Chaurasia</h1>
-<h3 align="center">🔬 VLSI Enthusiast | RTL Design • FPGA Prototyping • ASIC • Physical Design</h3>
+<h3 align="center">VLSI Enthusiast | RTL Design • FPGA Prototyping • ASIC • Physical Design</h3>
 
 <p align="center">
   Exploring the semiconductor world through hands-on digital design, FPGA implementation, and ASIC flows.
