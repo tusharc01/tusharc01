@@ -1,28 +1,60 @@
 <h1 align="center">Hi 👋, I'm Tushar Chaurasia</h1>
-<h3 align="center">VLSI Enthusiast</h3>
+<h3 align="center">🔬 VLSI Enthusiast | RTL Design • FPGA Prototyping • ASIC • Physical Design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharc01&label=Profile%20views&color=0e75b6&style=flat" alt="tusharc01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharc01" alt="tusharc01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/__tsc_01" target="blank"><img src="https://img.shields.io/twitter/follow/__tsc_01?logo=twitter&style=for-the-badge" alt="__tsc_01" /></a> </p>
-
-- 🌱 I’m currently learning **C++ , Web Development , etc.**
-
-- 📫 How to reach me **akchaurasia4@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__tsc_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__tsc_01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tushar-chaurasia-ab398a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar chaurasia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tusharchaurasia.tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar chaurasia" height="30" width="40" /></a>
-<a href="https://instagram.com/__tsc_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tsc_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tusharc01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharc01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tusharc01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharc01" height="30" width="40" /></a>
+<p align="center">
+  🚀 Exploring the semiconductor world through hands-on digital design, FPGA implementation, and ASIC flows.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharc01&show_icons=true&locale=en&layout=compact" alt="tusharc01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharc01&show_icons=true&locale=en" alt="tusharc01" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharc01&" alt="tusharc01" /></p>
+- 💡 Passionate about **VLSI Design**, especially in **RTL Design**, **FPGA**, and **ASIC flow**.
+- 📚 Completed coursework in Digital Logic, Digital VLSI Design, Reconfigurable Systems, and ASIC.
+- 🛠️ Currently working with **Vivado**, **Cadence/Synopsys EDA tools**, and real-time FPGA boards like **Basys3/Boolean**.
+- 📈 Learning and growing every day to become part of semiconductor revolution.
+
+---
+
+### 🛠️ Technical Skills
+
+| Category         | Tools/Technologies |
+|------------------|--------------------|
+| **Operating Systems** | GNU/Linux, Windows |
+| **Languages**         | Verilog, C |
+| **EDA Tools**         | Xilinx Vivado, Cadence, Synopsys |
+| **Platforms**         | FPGA (Basys3, Boolean Board) |
+| **Other Tools**       | Visual Studio Code, Static Timing Analysis (STA) |
+
+---
+
+### 📘 Relevant Coursework
+
+- ✅ Digital Logic Design  
+- ✅ Digital VLSI Design  
+- ✅ Embedded Computing Systems  
+- ✅ Reconfigurable System Design Lab  
+- ✅ Application Specific Integrated Circuit (ASIC) Lab  
+- ✅ Machine Intelligence  
+
+---
+
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tushar-chaurasia-ab398a202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akchaurasia4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 💬 Quote
+
+> *"Chips aren't just made, they're designed with logic, precision, and passion."*  
+> *"Keep your eyes and ears open, put your best effort in learning things well — placement will be a byproduct of that."*
+
+---
