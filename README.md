@@ -24,7 +24,7 @@
 | **Languages**         | Verilog, C |
 | **EDA Tools**         | Xilinx Vivado, Cadence, Synopsys |
 | **Boards**         | FPGA (Basys3, Boolean Board) |
-| **Other Tools**       | Visual Studio Code, Static Timing Analysis (STA) |
+| **Other Tools**       | Visual Studio Code|
 
 ---
 
