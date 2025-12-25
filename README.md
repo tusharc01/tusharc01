@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tushar Chaurasia</h1>
-<h3 align="center">VLSI Enthusiast | ASIC</h3>
+<h3 align="center">VLSI | ASIC</h3>
 
 <p align="center">
   Exploring the semiconductor world through hands-on digital design, FPGA implementation, and ASIC flows.
